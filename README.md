@@ -28,6 +28,6 @@
 ---
 
 **Highlight of my work**
-- Theoratically understand and explain of AB test, how to get sample size, check the notebook to see more details.
+- Theoratically understand and explain of core concept of AB test and how to calculate the sample size. Check the notebook to see more details.
 - Recommendation and further possible analysis in Section 3.4 of the notebook.
 - Proposed potential improvements for this type of experiment in the future.
