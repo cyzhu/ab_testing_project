@@ -1,9 +1,11 @@
 # AB Testing final project from Udacity course
 ## Files
 - AB Testing Analysis.ipynb: Main code and analysis
-- Final Project Baseline Values - Sheet1.csv : Baseline data for designing the experiment
-- Final Project Results.xlsx: Experiment data for analysis
-
+- data/
+  - Final Project Baseline Values - Sheet1.csv : Baseline data for designing the experiment
+  - Final Project Results.xlsx: Experiment data for analysis
+- figures/
+  - Including all figures helping to explain the analysis
 ## Structure of this project
 ### 1. Overview of the experiment
 
